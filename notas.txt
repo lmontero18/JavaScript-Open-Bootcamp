@@ -1,1 +1,12 @@
 Lenguaje compilado
+
+ECMA?
+Se encarga de estandarizar lenguajes de programacion
+dentro de cualquier navegador
+
+pluggins opcionales de ayuda
+
+--> es6 code snippets
+--> prettier
+--> bracket pair colorized
+
