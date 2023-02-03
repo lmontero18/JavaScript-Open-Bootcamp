@@ -1,15 +1,3 @@
-/*
-
-
-
-
-
-
-
-
-
-*/
-
 //- Una variable que contenga tu altura en centímetros (entero)
 let alturaCm = 177;
 
