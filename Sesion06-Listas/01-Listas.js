@@ -50,3 +50,4 @@ console.log(array3);
 //modificar valores splice(indice, 1, valores)
 array3.splice(2, 1, 10)
 console.log(array3);
+
